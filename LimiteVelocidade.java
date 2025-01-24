@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VelocidadeLimite {
+public class LimiteVelocidade {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -53,3 +53,4 @@ public class VelocidadeLimite {
         scanner.close();
     }
 }
+
